@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "base_track": "秒針",
+  "base_artist": "nqrse",
+  "createdAt": "2025-12-02T10:50:54.243808Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "秒針 Re:time",
+      "artist": "Shuta Sueyoshi",
+      "has_synced": true,
+      "path": "select/01_秒針_Re_time_Shuta_Sueyoshi.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "秒針",
+      "artist": "鈴木鈴木",
+      "has_synced": true,
+      "path": "select/02_秒針_鈴木鈴木.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "秒針",
+      "artist": "板倉雷夏",
+      "has_synced": false,
+      "path": "select/03_秒針_板倉雷夏.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "秒針 Re:time",
+      "artist": "Shuta Sueyoshi",
+      "has_synced": true,
+      "path": "select/04_秒針_Re_time_Shuta_Sueyoshi.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "秒針",
+      "artist": "nqrse",
+      "has_synced": false,
+      "path": "select/pl_01_秒針_nqrse.txt"
+    }
+  ]
+}
